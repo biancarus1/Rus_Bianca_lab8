@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Pages\Books\Index.cshtml.cs" />
     <Compile Remove="Pages\Index.cshtml.cs" />
   </ItemGroup>
 
